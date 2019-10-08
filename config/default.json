@@ -1,0 +1,15 @@
+{
+  "cookieSecret": "dfkjdlsfjljklsdfj",
+  "mongoURI": "mongodb+srv://marketHubStore:iFLhqgWZg5WYIylR@cluster0-mtr0q.mongodb.net/test?retryWrites=true&w=majority",
+  "facebook": {
+    "FACEBOOK_APP_ID": "2337512013008501",
+    "FACEBOOK_APP_SECRET": "4e4419dee5f55acad23e1a8237a0cddd"
+  },
+  "google":{
+    "GOOGLE_CONSUMER_KEY": "883403696734-s5h6oo72aderrqdcutvfu6e1jjc75p4j.apps.googleusercontent.com",
+    "GOOGLE_CONSUMER_SECRET": "3BGYBDjRVwIw12zWmAJ271th"
+  },
+  "session":{
+    "cookieKey":"secretawesomekey"
+  }
+}
